@@ -1,0 +1,13 @@
+[
+    {"num":"a","id":1,"ques":"who was nicknamed as the dada of indian cricket team ?","option":[{"optionid":1,"name":"Ms dhoni"},{"optionid":2,"name":"virat kohli"},{"optionid":3,"name":"saurav ganguly"},{"optionid":4,"name":"rahul dravid"}]},
+    {"num":"b","id":2,"ques":"which indian player has the most number of centuries in odi cricket ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"c","id":3,"ques":"which indian player is known as the wall of india ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"d","id":4,"ques":"which team has won the ICC world cup trophy for maximum number of times ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"e","id":5,"ques":"who was the man of the match in the final of ICC odi world cup 1983 ? ","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"f","id":6,"ques":"which captain is known as the captain cool of india ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"g","id":7,"ques":"which player is known as mr. 360 in cricket history ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"h","id":8,"ques":"which player is known as the mr. universe in cricket history ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"i","id":9,"ques":"which player has the fastest century in international cricket ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]},
+    {"num":"j","id":10,"ques":"which indian captain is known as the most successful captain of india ?","option":[{"optionid":1,"name":"sachin"},{"optionid":2,"name":"dhoni"},{"optionid":3,"name":"gavaskar"},{"optionid":4,"name":"kohli"}]}
+
+]
